@@ -1,0 +1,16 @@
+.nav__profilePhoto{
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.nav__container{
+    border-right: 1px solid rgb(223, 223, 223);
+    width: 300px;
+    padding: 2rem;
+    height: 100%;
+    position: fixed;
+    background-color: white;
+    z-index: 1000;
+}

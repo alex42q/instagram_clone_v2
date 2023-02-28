@@ -1,0 +1,10 @@
+.addNewPostModal__con{
+    position: fixed;
+    z-index: 10000;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(rgba(0.8, 0.8, 0.8, 0.8), rgba(0.8, 0.8, 0.8, 0.8));
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

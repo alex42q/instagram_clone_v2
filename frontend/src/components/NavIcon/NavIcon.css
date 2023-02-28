@@ -1,0 +1,16 @@
+.nav__iconText, .navIcon{
+    font-size: 20px;
+}
+
+.navIconCon{
+    margin-bottom: 1.5rem;
+}
+
+.nav__h1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav__profile_h5{
+    font-size: 20px;
+}

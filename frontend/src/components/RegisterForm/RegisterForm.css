@@ -1,0 +1,82 @@
+.register__form_con{
+    align-items: center;
+    background-color: white;
+    border: 1px solid #F2F3F5;
+    border-radius: 1px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font: inherit;
+    font-size: 100%;
+    margin: 0 0 10px;
+    padding: 10px 0;
+    position: relative;
+    vertical-align: baseline;
+    max-width: 350px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: center;
+    margin-top: 12px;
+    padding: 2.5rem;
+    width: 100%;
+}
+
+.register__form_top{
+    text-align: center;
+    width: 100%;
+}
+
+.register__top_p{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+
+    text-align: center;
+    color: rgb(134, 134, 134);
+    width: 100%;
+}
+
+.register__form__input{
+    background: #F2F3F5;
+    border: 0;
+    flex: 1 0 auto;
+    margin: 0;
+    outline: none;
+    overflow: hidden;
+    padding: 9px 0 7px 8px;
+    text-overflow: ellipsis;
+    color: black;
+    width: 100%;
+}
+
+.register__form__bottom_text{
+    font-size: rgb(142, 142, 142);
+    line-height: 16px;
+    margin: 10px 40px;
+    text-align: center;
+    width: 100%;
+    color: #949494;
+    margin-bottom: 0.5rem;
+}
+
+.register__form__bottom_text2{
+    font-size: rgb(142, 142, 142);
+    line-height: 16px;
+    margin: 10px 40px;
+    text-align: center;
+    width: 100%;
+    color: #949494;
+}
+
+.register__form__btn{
+    background-color: #0095F7;
+    color: white;
+    width: 100%;
+    border-radius: 5px;
+    padding: 0.5rem;
+    
+    text-align: center;
+}
